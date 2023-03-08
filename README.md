@@ -15,13 +15,8 @@ Website Figma -- https://www.figma.com/
 Figma: (https://www.figma.com/file/gfdavN1MiNs6PVzrpKFJqO/Project?node-id=0-1&t=xkwQB064ZnCUGx0U-0)
 
 ## Task 2: Submit your ***group*** idea/concept/mood boards.
-Upload your concept board as PDF file to this reposity. <br>
-filename as template : Group(A-J)_ConceptName.pdf
-
 Miro: (https://miro.com/welcomeonboard/MXFFM2thVllKOGxrdlFqZDdsd21RWFY0V0FidXdYMG1jTEhZOWFWYXVrZThtMnZuS3RtQ2lEeFE4YUYyVGp3aXwzNDU4NzY0NTQ2Mzc0NDkxMTQwfDI=?share_link_id=277029904595)
 
 ## Task 3: Submit your ***group*** Wireframe  Group design.
-Edit this Readme.md by attach link of your figma design.
-
-Paste you Figma designe here : 
-Group Aphabet [A-J]
+Figma 
+section wireframe: (https://www.figma.com/file/gfdavN1MiNs6PVzrpKFJqO/Project?node-id=0-1&t=xkwQB064ZnCUGx0U-0)
